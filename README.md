@@ -46,3 +46,48 @@ The solution follows these steps:
 
 ```text
 5 200 100 3000 656 98
+```
+
+### Output
+
+```text
+3000
+```
+
+## Example 2
+
+### Input
+
+```text
+5 -9 -8 -6333333 -9 -2
+```
+
+### Output
+
+```text
+-2
+```
+
+## Source Code
+
+The Java source code is located at:
+
+```text
+src/MaximumSearch.java
+```
+
+## Technologies
+
+- Java 8
+- Eclipse IDE for Java Developers
+- GitHub
+
+## Academic Context
+
+This solution was developed based on the "Search for the Maximum" exercise from Unit 1, Scenario 2 of the Fundamental Programming Concepts course material.
+
+The implementation, variable naming, comments, documentation, and repository structure were developed specifically for this academic contribution.
+
+## Author
+
+Santiago Gomez Pena
